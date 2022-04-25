@@ -6,7 +6,15 @@ namespace OpenGlPractical
 {
     public partial class Form1 : Form
     {
-
+        float[,] figure = new float[,]
+        {
+            { 0f, 0f },
+            { 0.3f, 0.3f },
+            { 0.5f, -0.3f },
+            { 0.29f, -0.52f },
+            { -0.52f, -0.4f },
+            { -0.4f, 0.6f }
+        };
 
         public Form1()
         {

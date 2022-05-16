@@ -1,5 +1,5 @@
 # OpenGLBasic
-A C# program to draw a figure using OpenGL.
+A C# program for drawing a figure using OpenGL.
 
 ## Technologies used in this project:
 <img align="left" alt="C#.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />

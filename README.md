@@ -10,7 +10,7 @@ A C# program for drawing a figure using OpenGL.
 ## Info:
 A simple program that uses the OpenTK framework to draw a custom shape using OpenGL's primitive types such as LineLoop and Polygon. OpenTK is a C# graphics library superseding the Tao Framework.
 
-The project should be opened in **Microsoft Visual Studio**. Simply compile the project and run it. You will be presented with an interface. On the menu strip choose **Draw** and then choose **Lines** to create a shape using LineLoop primitive.
+The project should be opened in **Microsoft Visual Studio**. Simply compile the project and run it. You will be presented with an interface. On the menu strip choose **Draw** and then choose **Lines** to draw a shape using LineLoop primitive.
 
 <p align="center">
   <img src="./gitResources/1.PNG" alt="UI" width="300" height="300">
